@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.021,
+  "time": 0.019,
   "errors": [],
   "tasks": [
     {
@@ -42,13 +42,13 @@
         "scheme": "file",
         "title": "Case Mix a partir de 2025",
         "stats": {
-          "hash": "1eee5f80a36832c3d139c1e8ee0ec06f",
-          "bytes": 1841,
+          "hash": "31b57db81dd08bc529896fc4010365ec",
+          "bytes": 2212,
           "fields": 4,
-          "rows": 90
+          "rows": 110
         }
       },
-      "time": 0.012,
+      "time": 0.011,
       "scope": [
         "hash-count-error",
         "byte-count-error",
