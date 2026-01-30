@@ -2,7 +2,7 @@ name: case-mix
 owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
 profile: data-package
 resources:
-  - description: Dados de case mix por unidade Fhemig a partir de 2025.
+  - description: Dados de case mix por unidade Fhemig.
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -26,5 +26,5 @@ resources:
           type: string
           description: "Case Mix: média de todos os pesos dos DRGs (calculado pelo software DRG-Brasil) das saídas hospitalares do período. Esse indicador avalia a complexidade dos pacientes clínicos e cirúrgicos atendidos no período."
     scheme: file
-    title: Case Mix a partir de 2025
+    title: Case Mix
 title: Case mix
