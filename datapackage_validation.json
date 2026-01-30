@@ -5,7 +5,7 @@
   "tasks": [
     {
       "resource": {
-        "description": "Dados de case mix por unidade Fhemig a partir de 2025.",
+        "description": "Dados de case mix por unidade Fhemig.",
         "dialect": {
           "delimiter": ";"
         },
@@ -40,7 +40,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Case Mix a partir de 2025",
+        "title": "Case Mix",
         "stats": {
           "hash": "1804027a9b244f9d004b6e9eca533fe7",
           "bytes": 16990,
@@ -48,7 +48,7 @@
           "rows": 480
         }
       },
-      "time": 0.044,
+      "time": 0.043,
       "scope": [
         "hash-count-error",
         "byte-count-error",
