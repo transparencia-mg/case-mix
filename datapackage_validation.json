@@ -5,7 +5,7 @@
   "tasks": [
     {
       "resource": {
-        "description": "Dados de case mix por unidade Fhemig.",
+        "description": "Dados de case mix por unidade FHEMIG.",
         "dialect": {
           "delimiter": ";"
         },
